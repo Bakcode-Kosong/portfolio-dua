@@ -1,3 +1,4 @@
+# digunakan agar saat refresh gak "page not found"
 [[redirects]]
 from = "/*"
 to = "/index.html"
